@@ -7,4 +7,4 @@ How to use:
 2) Enter the Event ID numbers in the winIDs.txt file. Note: this script is tuned for "security" logs so if you want to pull events from other Log update the $events Logname to match log you want to audit. 
 3) Run script as admin
 
-This is a simple starting point. Edit script to you needs.
+This is a simple starting point. Edit script to your needs.
